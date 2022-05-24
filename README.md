@@ -130,40 +130,40 @@
 
 ### 1. 카카오 로그인
 
-![로그인](exec/4. demonstration scenario/image/01.PNG)
+![로그인](README.assets/01.PNG)
 
-![카카오 로그인](exec/4. demonstration scenario/image/02.PNG)
+![카카오 로그인](README.assets/02.PNG)
 
 ### 2. 메인 페이지
 
-![메인 페이지](exec/4. demonstration scenario/image/03.PNG)
+![메인 페이지](README.assets/03.PNG)
 
 ### 3. 장소 페이지
 
-![장소 페이지](exec/4. demonstration scenario/image/04.PNG)
+![장소 페이지](README.assets/04.PNG)
 
-![장소 검색](exec/4. demonstration scenario/image/05.PNG)
+![장소 검색](README.assets/05.PNG)
 
-![장소 상세 페이지](exec/4. demonstration scenario/image/06.PNG)
+![장소 상세 페이지](README.assets/06.PNG)
 
-![장소 예약 결제](exec/4. demonstration scenario/image/07.PNG)
+![장소 예약 결제](README.assets/07.PNG)
 
 ### 4. 메이트 페이지
 
-![메이트 페이지](exec/4. demonstration scenario/image/08.PNG)
+![메이트 페이지](README.assets/08.PNG)
 
-![메이트 생성](exec/4. demonstration scenario/image/09.PNG)
+![메이트 생성](README.assets/09.PNG)
 
-![메이트 상세 조회](exec/4. demonstration scenario/image/10.PNG)
+![메이트 상세 조회](README.assets/10.PNG)
 
 ### 5. 프로필 페이지
 
-![프로필 소개](exec/4. demonstration scenario/image/11.PNG)
+![프로필 소개](README.assets/11.PNG)
 
-![찜한 목록](exec/4. demonstration scenario/image/12.PNG)
+![찜한 목록](README.assets/12.PNG)
 
-![예약 목록](exec/4. demonstration scenario/image/13.PNG)
+![예약 목록](README.assets/13.PNG)
 
-![운동 스케줄](exec/4. demonstration scenario/image/14.PNG)
+![운동 스케줄](README.assets/14.PNG)
 
-![메이트 신청 목록](exec/4. demonstration scenario/image/15.PNG)
+![메이트 신청 목록](README.assets/15.PNG)
